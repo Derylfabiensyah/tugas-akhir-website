@@ -1,0 +1,264 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "name": "Porsche 911 Carrera GTS 992",
+      "images": [
+        "./card/1.jpg",
+        "./card/1a.jpeg",
+        "./card/1b.jpeg",
+        "./card/1c.jpeg",
+        "./card/1d.jpeg",
+        "./card/1e.jpeg"
+      ],
+      "specs": "• Engine 3.0L Twin-Turbocharged - flat-6-473HP - AWD <br>• 0-60MPH in 3.2 Seconds <br>• 8-Speed PDK Dual-Clutch Automatic Transmission <br>• 18-Way Electric Adaptive Sport Seat Plus with Memory Package <br>• Race-Tex Interior Package with Extensive Items in Leather <br>• PASM Sport Suspension <br>• Keyless <br>• Electrical Slide Sunroof <br>• Rear Axle Steering <br>• Exterior Package in Black High-Gloss in Conjuction with Aerokit <br>• Side Window Trims in Black High Gloss <br>• Sport Exhaust System <br>• Burmester High-End Surround Sound System w/ Apple Car Play & Android Auto <br>• Front Axle Lift System <br>• Power Steering Plus <br>• Tinted LED Main Headlights w/ Matrix Beam including PDLS+ <br>• 'PORSCHE' Logo LED Door Courtesy Lights <br>• Preparation for Roof Transport System <br>• Privacy Glass <br>• Windscreen with Grey Top-Tint <br>• ParkAssist Front & Rear including Reversing Camera <br>• Porsche InnoDrive including Adaptive Cruise Control & Adaptive Lane Keeping <br>• Carbon Matt Interior Package <br>• Door Sill Guards Carbon Matt, Illumiated <br>• Light Design Package <br>• Storage Package <br>• Heated GT Sports Steering Wheel Race-Tex with Steering Wheel Panel Matt Carbon <br>• Vehicle Key Painted in Exterior Colour with Key Pouch Race-Tex <br>• Electric Folding Exterior Mirrors <br>• Roof Lining in Race-Tex <br>• Sun Visors Race-Tex <br>• Electric Parking Brake <br>• Brake Calipers Painted in Black High-Gloss <br>• Rims 20\"-21\" TurboS Rims in Satin Black <br>"
+    },
+    {
+      "id": "2",
+      "name": "Mercedes Benz GTS AMG",
+      "images": [
+        "./card/2.jpg",
+        "./card/2a.jpeg",
+        "./card/2b.jpeg",
+        "./card/2c.jpeg",
+        "./card/2d.jpeg",
+        "./card/2e.jpeg"
+      ],
+      "specs": "•4.000cc, 510hp, V8 Biturbo Petrol Engine <br>•Panoramic Roof <br>•Burmester High End 3D Surround 24 Speaker 1540 W <br>•GPS Navigation <br>•Rear Camera <br>•Electric Semi Bucket Seat <br>•Heater Seat <br>•Comfort/Sport/Sport+ Mode <br>•AMG Solar Beam Metallic •AMG Light Alloy Wheel 19-20 <br>•AMG Ceramic High Performance Composite Brakes System <br>•AMG Carbon Fiber Door Sill Panels <br>•AMG Alcantara Steering Wheel <br>•AMG Grill GTR Looks <br>• Side Window Trims in Black High Gloss <br>• Sport Exhaust System <br>• Burmester High-End Surround Sound System w/ Apple Car Play & Android Auto <br>• Front Axle Lift System <br>• Power Steering Plus <br>• Tinted LED Main Headlights w/ Matrix Beam including PDLS+ <br>• 'PORSCHE' Logo LED Door Courtesy Lights <br>• Preparation for Roof Transport System <br>• Privacy Glass <br>• Windscreen with Grey Top-Tint <br>• ParkAssist Front & Rear including Reversing Camera <br>• Porsche InnoDrive including Adaptive Cruise Control & Adaptive Lane Keeping <br>• Carbon Matt Interior Package <br>• Door Sill Guards Carbon Matt, Illumiated <br>• Light Design Package <br>• Storage Package <br>• Heated GT Sports Steering Wheel Race-Tex with Steering Wheel Panel Matt Carbon <br>• Vehicle Key Painted in Exterior Colour with Key Pouch Race-Tex <br>• Electric Folding Exterior Mirrors <br>• Roof Lining in Race-Tex <br>• Sun Visors Race-Tex <br>• Electric Parking Brake <br>• Brake Calipers Painted in Black High-Gloss"
+    },
+    {
+      "id": "3",
+      "name": "Mercedes Benz GTS AMG",
+      "images": [
+        "./card/3.jpg",
+        "./card/3a.jpeg",
+        "./card/3b.jpeg",
+        "./card/3c.jpeg",
+        "./card/3d.jpeg",
+        "./card/3e.jpeg"
+      ],
+      "specs": "• Engine S58-B30A <br>• 3000cc Twin-Turbo <br>• 510hp 650nm, 0-100 3,9 Secs <br>• ZF8 Transmission <br>• Carbon Fiber roof M-Mode Drive (M1,M2) <br>• M1, M2 Hotkeys <br>• iDrive 8 (2023 up) <br>• M Head-Up Display <br>• Paddle shifter <br>• M-Drift Analyzer <br>• Digital Speedometer <br>• BMW Adaptive Laser Light <br>• M4 Comp Rims <br>• M4 Comp Big brake kits <br>• M4 Comp HUD w/ M Modes <br>• Harman Kardon Sound System <br>• Ambient light interior <br>• 360 Degree Camera <br>• Park Assist <br>• Reversing Assist <br>• 2+2 Seats configuration <br>• Stage 2 Tune (bisa stage 3 tinggal install app diganti) <br>• M Performance Sideskirts <br>• M Performance Mirror Caps <br>• M Performance Diffuser Carbon Diffusser frame <br>• M Performance Carbon Lips <br>• M Performance Carbon lower intake <br>• CSL Laser Lights <br>• Yellow DRL <br>• BMW 50 Anniv Jahre BadgiCarbon Spoiler Ducktail <br>• XPEL Window Tint <br>• FULL BODY PPF and Coating by Glossfactory <br>• Catless Midpipe and downpipe <br>• AIRSPEED Intake <br>• Carbon Interior center console (kayak CSL bukan yang trim biasa) <br>• Carbon backseat cover <br>• JQWERKZ Magnetic Pedal Shifter <br><br>• Side Window Trims in Black High Gloss <br>• Sport Exhaust System <br>• Burmester High-End Surround Sound System w/ Apple Car Play & Android Auto M4"
+    },
+    {
+      "id": "4",
+      "name": "Koenigsegg Gemera 2023",
+      "images": [
+        "./card/4.jpg",
+        "./card/4a.jpeg",
+        "./card/4b.jpeg",
+        "./card/4c.jpeg",
+        "./card/4d.jpeg",
+        "./card/4e.jpeg"
+      ],
+      "specs": "• Koenigsegg Engine Control Module <br>• Flex fuel capability including E100, Methanol and sun fuel <br>• High power ion sensing coil-on-plug ignition system <br>• Total output 1700 bhp - 3500 Nm, including Hydracoup <br>• Max wheel torque: 11,000 Nm at ICE 4000 rpm <br>• 1100 bhp of combined electric power (counting E-motors separately - 1400 bhp) <br>• Koenigsegg third-generation Aircore carbon fiber wheels with center locking (optional) <br>with left and right displays <br>• Automatic emergency braking <br>• 6 smart airbags <br>• Safety belt tensioners <br>• Rain sensors <br>• Digital warning and info system, tire pressure monitoring system <br>• Koenigsegg safety cell with integrated crumple zones <br>• Two fire extinguishers <br>• ABS <br>• Traction control and stability control <br>• Reversing camera <br><br>• Side Window Trims in Black High Gloss <br>• Sport Exhaust System <br>• Burmester High-End Surround Sound System w/ Apple Car Play & Android Auto <br>• Front Axle Lift System <br>• Power Steering Plus <br>• Tinted LED Main Headlights w/ Matrix Beam including PDLS+ <br>• 'PORSCHE' Logo LED Door Courtesy Lights <br>• Preparation for Roof Transport System <br>• Privacy Glass <br>• Windscreen with Grey Top-Tint <br>"
+    },
+    {
+      "id": "5",
+      "name": "Koenigsegg Gemera 2023",
+      "images": [
+        "./card/5.jpg",
+        "./card/5a.jpeg",
+        "./card/5b.jpeg",
+        "./card/5c.jpeg",
+        "./card/5d.jpeg",
+        "./card/5e.jpeg"
+      ],
+      "specs": "• Engine 6.7L Twin-Turbocharged - V12 Output 563HP <br>• 8-Speed Automatic Transmission <br>• 0-60MPH in 5.1 Seconds <br>• Air Suspension <br>• Keyless <br>• All View Camera <br>• Rolls-Royce Bespoke Audio <br>• Shooting Star Headliner <br>• Black Single Coachline <br>• Polished Metal Fuel Filler Cap Chrome Plated.Visible Exhaust <br>• Illuminated Grille <br>• Front & Rear Massage Seats <br>• Dynamic Bespoke Clock <br>• Lakeshore Aurora <br>• SOE Embosed on Doors <br>• RR Monogram to all Headrests <br>• Veneered Picnic Tables <br>• Centrol Cool Chamber for Occ. Third Seat Elevating Footrest <br>• Immersive Seatig with Occ. Third Seats <br>• Driving Assistant <br>• Rear Theatre Configuration <br>• Illuminated Treadplates - Phantom <br>• VIN Plate <br>• Driver Assistance System <br>• Active Cruise Control <br>• Black Boot Trim <br>• 22 Forged 7 Spoke Fully Polished Wheel <br><br>• Tinted LED Main Headlights w/ Matrix Beam including PDLS+ <br>• 'PORSCHE' Logo LED Door Courtesy Lights <br>• Preparation for Roof Transport System <br>• Privacy Glass <br>• Windscreen with Grey Top-Tint <br><br>• Roof Lining in Race-Tex  <br>• Brake Calipers Painted in Black High-Gloss<br>• Side Window Trims in Black High Gloss <br>• Sport Exhaust System <br>• Burmester High-End Surround Sound System w/ Apple Car Play & Android  Package"
+    },
+    {
+      "id": "6",
+      "name": "McLaren MP4-12C Spider 3.8",
+      "images": [
+        "./card/6.jpg",
+        "./card/6a.jpeg",
+        "./card/6b.jpeg",
+        "./card/6c.jpeg",
+        "./card/6d.jpeg",
+        "./card/6e.jpeg"
+      ],
+      "specs": "• Liberty Walk Bodykit <br>• FULL Mods <br>• NIK 2013 <br>• Km 15.800 <br>• Pajak 05/24 <br>• Yellow <br>• Velg POR R20 <br>• Velg artworks lips forged carbon <br>• Forged carbon diffuser <br>• Forged carbon gt wing <br>• Forged carbon bracket gt wing <br>• Forged carbon saluran kap mesin <br>• Steering wheel race display <br>• 2 Doors <br>• 625 Hp 7500 Rpm <br>• Max Speed 329 Kmh <br>• Acceleration 100kmh 3 sec <br>• Fuel Tank 72L <br>• Body Tyle Roadster Spider <br>• 2 Seats <br>• Engine Model M838T <br>• 3799cc <br>• Torque 600 Nm 3000 7000 Rpm <br>• Direct Injection <br>• Twin Turbo <br>• V Engine <br>• Illuminated Treadplates - Phantom <br>• 8 Cillinders <br>• Rear Whell Drive <br>• 7 Gears Automatic Transmition <br>• Double Wishbone <br>• Ventilated Disc ABS <br>• Stering Rack Opinion <br>• Electrick steering <br>• Side Window Trims in Black High Gloss <br>• Sport Exhaust System <br>• Burmester High-End <br>• Keyless <br>• All View Camera Parking <br>• Sun Visors Race-Tex <br>• Illuminated Treadplates - Phantom <br>• Black Boot Trim <br>• 22 Forged 7 <br>• Sport Exhaust System <br>• Burmester High-End Surround Sound System w/ Apple Car Play & Android Auto ss <br>"
+    },
+    {
+      "id": "7",
+      "name": "Audi RS5 Coupe TFSI Quattro 2018",
+      "images": [
+        "./card/7.jpg",
+        "./card/7a.jpeg",
+        "./card/7b.jpeg",
+        "./card/7c.jpeg",
+        "./card/7d.jpeg",
+        "./card/7e.jpeg"
+      ],
+      "specs": "• Electric seat + memory seat <br>• Lumbar seat + massage seat <br>• Speedometer Screen Digital <br>• Monitor TV + GPS Indonesia <br>• Rear Camera <br>• Apple Carplay <br>• Sport Exhuast <br>• Six Drive Mode <br>• Engine 2.900 cc 450 Hp AWD <br>• Panoramic Sunroof <br>• Full Bodykitt RS Quattro <br>• Velg R.19 Black Croume <br>• 2 Doors with 4 seaters <br>• RARE (Limited Unit) <br>• Engine Model M838T <br>• 3799cc <br>• Torque 600 Nm 3000 7000 Rpm <br>• Direct Injection <br>• Twin Turbo <br>• V Engine <br>• Illuminated Treadplates - Phantom <br>• 8 Cillinders <br>• Rear Whell Drive <br>• 7 Gears Automatic Transmition <br>• Double Wishbone <br>• Ventilated Disc ABS <br>• Stering Rack Opinion <br>• Electrick steering <br>• Side Window Trims in Black High Gloss <br>• Sport Exhaust System <br>• Burmester High-End <br>• Keyless <br>• All View Camera Parking <br>• Sun Visors Race-Tex <br>• Illuminated Treadplates - Phantom <br>• Black Boot Trim <br>• 22 Forged 7 <br>• Sport Exhaust System <br>• Burmester High-End Surround Sound System w/ Apple Car Play & Android Auto ss <br>"
+    },
+    {
+      "id": "8",
+      "name": "Aston Martin DB-11 V12 Coupe 2017",
+      "images": [
+        "./card/8.jpg",
+        "./card/8a.jpeg",
+        "./card/8b.jpeg",
+        "./card/8c.jpeg",
+        "./card/8d.jpeg",
+        "./card/8e.jpeg"
+      ],
+      "specs": "• Silver On Black Interior <br>• NIK 2017 <br>• Odo 11rb Km <br>• Pajak November 2024 <br>• Service Record Lengkap <br>• Wrapping Black Metallic <br>• Electric + Memory Seats <br>• Bang & Olufsen Audio Sys <br>• Blind Spot Monitor System <br>• Parking Brake Assistance <br>• Velg R.19 Black Croume <br>• 2 Doors with 4 seaters <br>• RARE (Limited Unit) <br>• Engine Model M838T <br>• 3799cc <br>• Torque 600 Nm 3000 7000 Rpm <br>• Direct Injection <br>• Twin Turbo <br>• V Engine <br>• Illuminated Treadplates - Phantom <br>• 8 Cillinders <br>• Rear Whell Drive <br>• 7 Gears Automatic Transmition <br>• Double Wishbone <br>• Ventilated Disc ABS <br>• Stering Rack Opinion <br>• Electrick steering <br>• Side Window Trims in Black High Gloss <br>• Sport Exhaust System <br>• Burmester High-End <br>• Keyless <br>• All View Camera Parking <br>• Sun Visors Race-Tex <br>• Illuminated Treadplates - Phantom <br>• Black Boot Trim <br>• 22 Forged 7 <br>• Sport Exhaust System <br>• Burmester High-End Surround Sound System w/ Apple Car Play & Android Auto ss <br>"
+    },
+    {
+      "id": "9",
+      "name": "Bentley Flying Spur 3.0 Hybrid KAHN Edition CBU 2024",
+      "images": [
+        "./card/9.jpg",
+        "./card/9a.jpeg",
+        "./card/9b.jpeg",
+        "./card/9c.jpeg",
+        "./card/9d.jpeg",
+        "./card/9e.jpeg"
+      ],
+      "specs": "• Silver On Black Interior <br>• NIK 2017 <br>• Odo 11rb Km <br>• Pajak November 2024 <br>• Service Record Lengkap <br>• Wrapping Black Metallic <br>• Electric + Memory Seats <br>• Bang & Olufsen Audio Sys <br>• Blind Spot Monitor System <br>• Parking Brake Assistance <br>• Velg R.19 Black Croume <br>• 2 Doors with 4 seaters <br>• RARE (Limited Unit) <br>• Engine Model M838T <br>• 3799cc <br>• Torque 600 Nm 3000 7000 Rpm <br>• Direct Injection <br>• Twin Turbo <br>• V Engine <br>• Illuminated Treadplates - Phantom <br>• 8 Cillinders <br>• Rear Whell Drive <br>• 7 Gears Automatic Transmition <br>• Double Wishbone <br>• Ventilated Disc ABS <br>• Stering Rack Opinion <br>• Electrick steering <br>• Side Window Trims in Black High Gloss <br>• Sport Exhaust System <br>• Burmester High-End <br>• Keyless <br>• All View Camera Parking <br>• Sun Visors Race-Tex <br>• Illuminated Treadplates - Phantom <br>• Black Boot Trim <br>• 22 Forged 7 <br>• Sport Exhaust System <br>• Burmester High-End Surround Sound System w/ Apple Car Play & Android Auto ss <br>"
+    },
+    {
+      "id": "10",
+      "name": "Maserati MC stradale 2013",
+      "images": [
+        "./card/10.jpg",
+        "./card/10a.jpeg",
+        "./card/10b.jpeg",
+        "./card/10c.jpeg",
+        "./card/10d.jpeg",
+        "./card/10e.jpeg"
+      ],
+      "specs": "• NIK 2013 <br>• White Metallic on Black With Red Seatbelt Interior <br>• LOW ODO 8rb KM <br>• Pajak Aktif <br>• Plat B <br>• Full Service Record <br>• All Papers and Documents Complete <br>• Spare Key Complete <br>• Eksterior Mulus! Interior Fresh! Like New! <br>• Mesin Standar No Remap <br>• Electric + Memory Seats <br>• Bang & Olufsen Audio Sys <br>• Blind Spot Monitor System <br>• Parking Brake Assistance <br>• Velg R.19 Black Croume <br>• 2 Doors with 4 seaters <br>• RARE (Limited Unit) <br>• Engine Model M838T <br>• 3799cc <br>• Torque 600 Nm 3000 7000 Rpm <br>• Direct Injection <br>• Twin Turbo <br>• V Engine <br>• Illuminated Treadplates - Phantom <br>• 8 Cillinders <br>• Rear Whell Drive <br>• 7 Gears Automatic Transmition <br>• Double Wishbone <br>• Ventilated Disc ABS <br>• Stering Rack Opinion <br>• Electrick steering <br>• Side Window Trims in Black High Gloss <br>• Sport Exhaust System <br>• Burmester High-End <br>• Keyless <br>• All View Camera Parking <br>• Sun Visors Race-Tex <br>• Illuminated Treadplates - Phantom <br>• Black Boot Trim <br>• 22 Forged 7 <br>• Sport Exhaust System <br>• Burmester High-End Surround Sound System w/ Apple Car Play & Android Auto ss <br>"
+    },
+    {
+      "id": "11",
+      "name": "Nissan GT-R r35 nismo",
+      "images": [
+        "./card/11.jpg",
+        "./card/11a.jpeg",
+        "./card/11b.jpeg",
+        "./card/11c.jpeg",
+        "./card/11d.jpeg",
+        "./card/11e.jpeg"
+      ],
+      "specs": "• NISSAN GT-R R35 NISMO <br>• Nik 2022 <br>• Special stealth Grey <br>• Carbon fibre hood <br>• 20 black wheels with red accent - Yellow Nissan calipers <br>• Carbon ceramic disc brakes <br>• Twin-turbocharged 3.8 intercooled 6-cylinders <br>• Power 565 Hp <br>• Torque 467 lb <br>• Premium Bose sound system <br>• All wheel drive <br>• 6-speed automatic with manual shifting mode - GT-R leather & suede <br>• Dual zone climate control <br>• 8.0 touchscreen <br>• Mesin Standar No Remap <br>• Electric + Memory Seats <br>• Bang & Olufsen Audio Sys <br>• Blind Spot Monitor System <br>• Parking Brake Assistance <br>• Velg R.19 Black Croume <br>• 2 Doors with 4 seaters <br>• RARE (Limited Unit) <br>• Engine Model M838T <br>• 3799cc <br>• Torque 600 Nm 3000 7000 Rpm <br>• Direct Injection <br>• Twin Turbo <br>• V Engine <br>• Illuminated Treadplates - Phantom <br>• 8 Cillinders <br>• Rear Whell Drive <br>• 7 Gears Automatic Transmition <br>• Double Wishbone <br>• Ventilated Disc ABS <br>• Stering Rack Opinion <br>• Electrick steering <br>• Side Window Trims in Black High Gloss <br>• Sport Exhaust System <br>• Burmester High-End <br>• Keyless <br>• All View Camera Parking <br>• Sun Visors Race-Text 22 Forged 7 Sport Exhaust System All View Camera Parking 8"
+    },
+    {
+      "id": "12",
+      "name": "ferrari 488 spyder 2019",
+      "images": [
+        "./card/12.jpg",
+        "./card/12a.jpeg",
+        "./card/12b.jpeg",
+        "./card/12c.jpeg",
+        "./card/12d.jpeg",
+        "./card/12e.jpeg"
+      ],
+      "specs": "• ATPM <br>• Grigio Ferro (Grey on Black with Yellow Stitching) <br>• 3.9L V8 Twin Turbo (670Hp/760Nm) <br>• 7 Speed DCT <br>• Carbon Lips/Side Skirt <br>• Carbon Ceramic Brake <br>• Electrical Seat/ Memory Seat <br>• Plat B <br>• Pajak 10/2023 <br>• Faktur 2019 <br>• Perakitan 2018 <br>• Messages <br>• Full Original <br>• Ferrari Warranty <br>• Mesin Standar No Remap <br>• Electric + Memory Seats <br>• Bang & Olufsen Audio Sys <br>• Blind Spot Monitor System  <br>• Velg R.19 Black Croume <br>• 2 Doors with 4 seaters <br>• RARE (Limited Unit) <br>• Engine Model M838T <br>• 3799cc <br>• Torque 600 Nm 3000 7000 Rpm <br>• Direct Injection <br>• Twin Turbo <br>• V Engine <br>• Illuminated Treadplates - Phantom <br>• 8 Cillinders <br>• Rear Whell Drive <br>• 7 Gears Automatic Transmition <br>• Ventilated Disc ABS <br>• Stering Rack Opinion <br>• Electrick steering <br>• Side Window Trims in Black High Gloss <br>• Sport Exhaust System <br>• Burmester High-End <br>• Keyless <br>• All View Camera Parking <br>• Sun Visors Race-Tex <br>• Black Boot Trim <br>• 22 Forged 7 <br>• Sport Exhaust System <br>• Burmester High-End Surround Sound System w/ Apple Car Play & Android Auto ss"
+    },
+    {
+      "id": "13",
+      "name": "bmw i8 roadster phev Hybrid",
+      "images": [
+        "./card/13.jpg",
+        "./card/13a.jpeg",
+        "./card/13b.jpeg",
+        "./card/13c.jpeg",
+        "./card/13d.jpeg",
+        "./card/13e.jpeg"
+      ],
+      "specs": "• NIK 2021 <br>• Delivery Milage <br>• Langsung Nama Pemilik <br>• Protonic Red on Beige Interior <br>• Black Convertible SofTop <br>• Harman Kardon <br>• Parking Sensor <br>• Camera 360 Degree <br>• Adaptive BMW LED Headlights <br>• Daytime Running LED <br>• Dihedral Doors <br>• LED Taillight with Rear Combination Signal <br>• Electric Side Mirror <br>• Velg R20 <br>• Electric + Memory Seats <br>• Bang & Olufsen Audio Sys <br>• Blind Spot Monitor System <br>• Parking Brake Assistance <br>• Velg R.19 Black Croume <br>• 2 Doors with 4 seaters <br>• RARE (Limited Unit) <br>• 3799cc <br>• Torque 600 Nm 3000 7000 Rpm <br>• Direct Injection <br>• Twin Turbo <br>• V Engine <br>• Illuminated Treadplates - Phantom <br>• 8 Cillinders <br>• Rear Whell Drive <br>• 7 Gears Automatic Transmition <br>• Double Wishbone <br>• Ventilated Disc ABS <br>• Stering Rack Opinion <br>• Electrick steering <br>• Side Window Trims in Black High Gloss <br>• Sport Exhaust System <br>• Burmester High-End <br>• Keyless <br>• All View Camera Parking <br>• Sun Visors Race-Tex <br>• Illuminated Treadplates - Phantom <br>• Black Boot Trim <br>• 22 Forged 7 <br>• Sport Exhaust System <br>• Burmester High-End Surround Sound System w/ Apple Car Play & Android Auto ss"
+    },
+    {
+      "id": "14",
+      "name": "jeep wrangler rubicon jk 4 door sahara Edition",
+      "images": [
+        "./card/14.jpg",
+        "./card/14a.jpeg",
+        "./card/14b.jpeg",
+        "./card/14c.jpeg",
+        "./card/14d.jpeg",
+        "./card/14e.jpeg"
+      ],
+      "specs": "• Mojave Sand color (limited edition) <br>• Mesin 3.8L bensin <br>• NIK 2011 <br>• Low odo 45 rb KM <br>• Plat Genap <br>• Pajak 06/25 <br>• Full modif +200 jt <br>• All Papers and Documents Complete <br>• Spare Key Complete <br>• Eksterior Mulus! Interior Fresh! Like New! <br>• Mesin Standar No Remap <br>• Electric + Memory Seats <br>• Bang & Olufsen Audio Sys <br>• Blind Spot Monitor System <br>• Parking Brake Assistance <br>• Velg R.19 Black Croume <br>• 2 Doors with 4 seaters <br>• RARE (Limited Unit) <br>• Engine Model M838T <br>• 3799cc <br>• Torque 600 Nm 3000 7000 Rpm <br>• Direct Injection <br>• Twin Turbo <br>• V Engine <br>• Illuminated Treadplates - Phantom <br>• 8 Cillinders <br>• Rear Whell Drive <br>• 7 Gears Automatic Transmition <br>• Double Wishbone <br>• Ventilated Disc ABS <br>• Stering Rack Opinion <br>• Electrick steering <br>• Side Window Trims in Black High Gloss <br>• Sport Exhaust System <br>• Burmester High-End <br>• Keyless <br>• All View Camera Parking <br>• Sun Visors Race-Tex <br>• Illuminated Treadplates - Phantom <br>• Black Boot Trim <br>• 22 Forged 7 <br>• Sport Exhaust System <br>• Burmester High-End Surround Sound System w/ Apple Car Play & Android Auto ss <br>"
+    },
+    {
+      "id": "15",
+      "name": "volkswagen scirocco 1.4 tsi",
+      "images": [
+        "./card/15.jpg",
+        "./card/15a.jpeg",
+        "./card/15b.jpeg",
+        "./card/15c.jpeg",
+        "./card/15d.jpeg",
+        "./card/15e.jpeg"
+      ],
+      "specs": "• mechatronic ganti BARU juni 2024 (odo 90rban) <br>• busi koil dan perintilan lain <br>• BBK 4pot ori Scirocco R 28jt <br>• Per eibach 5jt <br>• Shock belakang coilover 5jt <br>• Velg TC WDS r18 10jt <br>• Ban baru 4pcs semi slick 7jt <br>• kap mesin carbon 8 jt <br>• wing carbon rocco R 5 jt <br>• Cover spion carbon 4jt <br>• knalpot custom fullsys 12 juta <br>• muffler akrapovic original 5 juta <br>• ENGINE (standard) <br>• aluminium air intake by DD knalpot 3,5jt <br>• Blowoff valve Greedy 3jt <br>• Speedometer digital 20jt <br>• Turbo timer HKS 4jt <br>• Headunit rcd 360 apple carplay 11jt <br>• OBD tachometer 2jt <br>• mesin standard ga di oprek2 <br>• Velg R.19 Black Croume <br>• 2 Doors with 4 seaters <br>• RARE (Limited Unit) <br>• Engine Model M838T<br>• Torque 600 Nm 3000 7000 Rpm <br>• Direct Injection <br>• Twin Turbo <br>• V Engine <br>• Illuminated Treadplates - Phantom <br>• 8 Cillinders <br>• Rear Whell Drive <br>• 7 Gears Automatic Transmition <br>• Double Wishbone <br>• Ventilated Disc ABS <br>• Stering Rack Opinion <br>• Electrick steering <br>• Side Window Trims in Black High Gloss <br>• Sport Exhaust System <br>• All View Camera Parking <br>• Sun Visors Race-Tex <br>• Illuminated Treadplates - Phantom <br>• Black Boot Trim <br>• 22 Forged 7 <br>• Sport Exhaust System <br>• Burmester High-End Surround Sound System w/ Apple Car Play & Android Auto ss"
+    },
+    {
+      "id": "16",
+      "name": "ford mustang high peformance 2021",
+      "images": [
+        "./card/16.jpg",
+        "./card/16a.jpeg",
+        "./card/16b.jpeg",
+        "./card/16c.jpeg",
+        "./card/16d.jpeg",
+        "./card/16e.jpeg"
+      ],
+      "specs": "• Nik 2021 <br>• LOW KM 14rb <br>• Pajak aktif <br>• Service rutin <br>• Very well maintained <br>• Plat B <br>• Good Condition <br>• Very Well Maintenance <br>• Hijau Stabilo <br>• Full Mods 150 Jt <br>• Package Mustang Shelby Look <br>• Nopol 3 Angka(Nomor Cantik) <br>• wing carbon rocco R 5 jt <br>• Cover spion carbon 4jt <br>• knalpot custom fullsys 12 juta <br>• muffler akrapovic original 5 juta <br>• ENGINE (standard) <br>• aluminium air intake by DD knalpot 3,5jt <br>• Blowoff valve Greedy 3jt <br>• Speedometer digital 20jt <br>• Turbo timer HKS 4jt <br>• Headunit rcd 360 apple carplay 11jt <br>• OBD tachometer 2jt <br>• mesin standard ga di oprek2 <br>• Velg R.19 Black Croume <br>• 2 Doors with 4 seaters <br>• RARE (Limited Unit) <br>• Engine Model M838T<br>• Torque 600 Nm 3000 7000 Rpm <br>• Direct Injection <br>• Twin Turbo <br>• V Engine <br>• Illuminated Treadplates - Phantom <br>• 8 Cillinders <br>• Rear Whell Drive <br>• 7 Gears Automatic Transmition <br>• Double Wishbone <br>• Ventilated Disc ABS <br>• Twin Turbo <br>• V Engine <br>• Sun Visors Race-Tex Burmester High-End Surround Sound System w/ Apple Car ss"
+    },
+    {
+      "id": "17",
+      "name": "mini chooper jcw gp3 Edition hatchback 2.0l (gp0336) 2020",
+      "images": [
+        "./card/17.jpg",
+        "./card/17a.jpeg",
+        "./card/17b.jpeg",
+        "./card/17c.jpeg",
+        "./card/17d.jpeg",
+        "./card/17e.jpeg"
+      ],
+      "specs": "• GP3 Series (0336) <br>• Engine 2.0L 306Hp/450Nm Twin Power Turbo <br>• 8 Speed Transmission <br>• Keyless Start Stop Engine <br>• Dashboard Hard Plastic, Black Glossy Panel List Chrome <br>• GP3 Bodykit (Spoiler, Grill, Bodykit, Logo Jok, Overfender) <br>• Sill Plate GP, Frameless Mirror <br>• Adjustable Alcantara GP Bucket Seat <br>• GP Spoiler Double Wing, Sharfin Antena, Double Muffler <br>• JCW Red Big Brake Kit <br>• Velg GP R18 Dual Tone <br>• wing carbon rocco R 5 jt <br>• Cover spion carbon 4jt <br>• knalpot custom fullsys 12 juta <br>• muffler akrapovic original 5 juta <br>• ENGINE (standard) <br>• aluminium air intake by DD knalpot 3,5jt <br>• Blowoff valve Greedy 3jt <br>• Speedometer digital 20jt <br>• Turbo timer HKS 4jt <br>• Headunit rcd 360 apple carplay 11jt <br>• OBD tachometer 2jt <br>• mesin standard ga di oprek2 <br>• Velg R.19 Black Croume <br>• 2 Doors with 4 seaters <br>• RARE (Limited Unit) <br>• Engine Model M838T<br>• Torque 600 Nm 3000 7000 Rpm <br>• Direct Injection <br>• Twin Turbo <br>• V Engine <br>• Illuminated Treadplates - Phantom <br>• 8 Cillinders <br>• Rear Whell Drive <br>• 7 Gears Automatic Transmition <br>• Double Wishbone <br>• Ventilated Disc ABS <br>• Stering Rack Opinion <br>• Electrick steering <br>• Side Window Trims in Black High Gloss 7 Gears Automatic Transmitione Sun Visors"
+    },
+    {
+      "id": "18",
+      "name": "toyota supra mk5 3.0 gr 2020",
+      "images": [
+        "./card/18.jpg",
+        "./card/18a.jpeg",
+        "./card/18b.jpeg",
+        "./card/18c.jpeg",
+        "./card/18d.jpeg",
+        "./card/18e.jpeg"
+      ],
+      "specs": "• NIK 2020 Pemakaian 2021 <br>• Red & Black <br>• Odo 7rb KM On Going <br>• Very Good Condition <br>• Engine 2.998cc 6cylinder 382HP 495NM <br>• 8Speed Automatic Triptonic <br>• Kap Mesin & Fender Custom <br>• Air suspension by AirBFT <br>• Shock belakang coilover 5jt <br>• Velg TC WDS r18 10jt <br>• Ban baru 4pcs semi slick 7jt <br>• kap mesin carbon 8 jt <br>• wing carbon rocco R 5 jt <br>• Cover spion carbon 4jt <br>• knalpot custom fullsys 12 juta <br>• muffler akrapovic original 5 juta <br>• ENGINE (standard) <br>• aluminium air intake by DD knalpot 3,5jt <br>• Blowoff valve Greedy 3jt <br>• Speedometer digital 20jt <br>• Turbo timer HKS 4jt <br>• Headunit rcd 360 apple carplay 11jt <br>• OBD tachometer 2jt <br>• mesin standard ga di oprek2 <br>• Velg R.19 Black Croume <br>• 2 Doors with 4 seaters <br>• RARE (Limited Unit) <br>• Engine Model M838T<br>• Torque 600 Nm 3000 7000 Rpm <br>• Direct Injection <br>• Twin Turbo <br>• V Engine <br>• Illuminated Treadplates - Phantom <br>• 8 Cillinders <br>• Rear Whell Drive <br>• 7 Gears Automatic Transmition <br>• Double Wishbone <br>• Ventilated Disc ABS <br>• Stering Rack Opinion <br>• Electrick steering aluminium air intake by DD knalpot 3,5jt Stering Rack Opinion"
+    },
+    {
+      "id": "19",
+      "name": "lamborghini aventador 2012",
+      "images": [
+        "./card/19.jpg",
+        "./card/19a.jpeg",
+        "./card/19b.jpeg",
+        "./card/19c.jpeg",
+        "./card/19d.jpeg",
+        "./card/19e.jpeg"
+      ],
+      "specs": "• 2012 Lamborghini Aventador <br>• LP700-4 (ATPM) <br>• 6.5L N/A V12 700HP <br>• Bianco Isis (White) on Black <br>• License Plate B DKI Jakarta <br>• Individual Ownership <br>• Tax On June 2025 <br>• All Papers and Spare Key Complete Odometer 2.300 Miles Full Record <br>• Full Stock Condition <br>• IPE Exhaust and Carbon Fibre Diffuser <br>• Iperione High Gloss Forged Wheels <br>• Carbon Ceramic Brakes <br>• Alcantara Steering Wheel <br>• Pristine Condition <br>• Peremajaan Parts 200 mio++. <br>• oxydoxytv 61.4K 5-21 <br>• exterior Super Clean and Original Pain <br>• Interior Like New <br>• Engine and Electrical All Functions <br>• Well Polished and Coated at 3steps <br>• Never been Modified Since New <br>• Speedometer digital 20jt <br>• Turbo timer HKS 4jt <br>• Headunit rcd 360 apple carplay 11jt <br>• OBD tachometer 2jt <br>• mesin standard ga di oprek2 <br>• Velg R.19 Black Croume <br>• 2 Doors with 4 seaters <br>• RARE (Limited Unit) <br>• Engine Model M838T<br>• Torque 600 Nm 3000 7000 Rpm <br>• Direct Injection <br>• Twin Turbo <br>• V Engine <br>• Illuminated Treadplates - Phantom <br>• 8 Cillinders <br>• Rear Whell Drive <br>• 7 Gears Automatic Transmition <br>• Double Wishbone <br>• Ventilated Disc ABS <br>• Stering Rack Opinion <br>• Electrick steering <br>• Side Window Trims in Black High Gloss <br>• Sport Exhaust System Illuminated Treadplates - Phantom Torque 600 Nm 3000 ss"
+    },
+    {
+      "id": "20",
+      "name": "nissan z fairlady (rz34) 2022",
+      "images": [
+        "./card/20.jpg",
+        "./card/20a.jpeg",
+        "./card/20b.jpeg",
+        "./card/20c.jpeg",
+        "./card/20d.jpeg",
+        "./card/20e.jpeg"
+      ],
+      "specs": "• Z Version ST (HIGHEST TYPE) <br>• BOSE Premium Sound System <br>• Engine 3.000 cc 400 hp (475 Nm) Twin Turbocharged V6 <br>• Acceleration 0-100 mph On 10.6 Sec <br>• 9 Speed Automatic Transmission With Manual Shift Mode <br>• Keyless Start Stop Engine <br>• Dashboard Soft Touch, Black Glossy Accent Panel, List Silver, List Chrome <br>• Audio Steering Switch, Paddle Shift + Adaptive Cruise Control <br>• Frameless Mirror, Emblem Z, Ambient Light <br>• Electric And Retractable Mirror + Sein. <br>• 27.1K 6d ago <br>• 112.1K 6d ago <br>• AC Digital Climate Control Dual Zone <br>• Tilt And Telescopic Steering <br>• 9.0 Inch Infotainment System Touchscreen Navigation, Phone Connection, <br>• ENGINE (standard) <br>• aluminium air intake by DD knalpot 3,5jt <br>• Blowoff valve Greedy 3jt <br>• Speedometer digital 20jt <br>• Turbo timer HKS 4jt <br>• Headunit rcd 360 apple carplay 11jt <br>• OBD tachometer 2jt <br>• mesin standard ga di oprek2 <br>• Velg R.19 Black Croume <br>• 2 Doors with 4 seaters <br>• RARE (Limited Unit) <br>• Engine Model M838T<br>• Torque 600 Nm 3000 7000 Rpm <br>• Direct Injection <br>• Twin Turbo <br>• V Engine <br>• Illuminated Treadplates - Phantom <br>• 8 Cillinders <br>• Rear Whell Drive <br>• 7 Gears Automatic Transmition <br>• Double Wishbone <br>• Ventilated Disc ABS <br>• Stering Rack Opinion <br>• Electrick steering <br>• Side Window Trims in Black High Gloss Sport Exhaust System Illuminated V Engine"
+    }
+  ]
+}

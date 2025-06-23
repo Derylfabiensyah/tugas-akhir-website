@@ -1,0 +1,33 @@
+ [
+  {
+    "foto": "/images/1.jpeg",
+    "judul": "service berkala",
+    "isi": "Meliputi penggantian oli maupun cairan lain pada kendaraan secara rutin. Setiap <br> mobil sudah memiliki anjuran yang sudah semestinya diikuti. Oli, filter oli, filter udara, <br> minyak rem, cairan pendingin mesin, busi, dll."
+  },
+  {
+    "foto": "/images/2.jpeg",
+    "judul": "general checkup",
+    "isi": "Merupakan pengecekan menyeluruh pada mobil. Umumnya dilakukan ketika <br> seseorang ingin membeli mobil bekas dan memastikan kondisi mobil sehat. Yang <br> dimaksud tentu untuk mengetahui kekurangan atau kerusakan yang ada."
+  },
+  {
+    "foto": "/images/3.jpeg",
+    "judul": "general checkup",
+    "isi": "Identik dengan pengecatan body mobil yang rusak atau penyok. Panel body yang <br> rusak berat tentunya harus diganti dan diakhiri dengan pengecatan untuk <br> menyamakan warna."
+  },
+  {
+    "foto": "/images/4.jpeg",
+    "judul": "modifikasi",
+    "isi": "Tidak selalu workshop hanya berurusan dengan perbaikan. Modifikasi disediakan <br> bagi mereka yang ingin merubah penampilan kendaraan menjadi lebih cantik. Velg, <br> body kit, audio, kaca film, kenalpot, dll."
+  },
+  {
+    "foto": "/images/5.jpeg",
+    "judul": "Tune Up",
+    "isi": "Umumnya tune up berbarengan dengan service berkala. Sesuai bahasanya yang <br> diartikan dengan setting ulang, dimana lebih untuk memastikan beberapa <br> komponen sirkulasi mesin untuk tetap prima. Contohnya aki, fan belt, busi, sistem <br> pembakaran, dll."
+  },
+  {
+    "foto": "/images/7.jpeg",
+    "judul": "service ac",
+    "isi": "Kenyamanan berkendara tentunya didukung dengan AC yang dingin. Penambahan <br> freon sekalipun penggantian spare parts diperlukan jika AC sudah tidak dingin."
+  }
+
+]

@@ -1,0 +1,125 @@
+[
+  { "name": "Porsche", 
+    "img": "/brand/porsche.png", 
+    "width": "110px", 
+    "height": "110px"
+   },
+  { "name": "Mercedes Benz", 
+    "img": "/brand/mercedes-benz.svg", 
+    "width": "100px", 
+    "height": "110px"
+   },
+  { "name": "Koenigsegg", 
+    "img": "/brand/koenigsegg.png", 
+    "width": "100px", 
+    "height": "110px"
+   },
+  { "name": "BMW", 
+    "img": "/brand/bmw.svg", 
+    "width": "100px", 
+    "height": "110px"
+   },
+  { "name": "Maserati", 
+    "img": "/brand/maserati.svg", 
+    "width": "100px", 
+    "height": "110px"
+   },
+  { "name": "Rolls Royce", 
+    "img": "/brand/rolls-royce.svg", 
+    "width": "100px", 
+    "height": "110px"
+   },
+  { "name": "McLaren", 
+    "img": "/brand/mclaren.svg", 
+    "width": "100px", 
+    "height": "110px"
+   },
+  { "name": "Audi", 
+    "img": "/brand/audi.png", 
+    "width": "100px", 
+    "height": "110px"
+   },
+  { "name": "Aston Martin", 
+    "img": "/brand/Aston-martin.png", 
+    "width": "100px", 
+    "height": "110px"
+   },
+  { "name": "Bentley", 
+    "img": "/brand/bentley.svg", 
+    "width": "100px", 
+    "height": "110px"
+   },
+  { "name": "Land Rover", 
+    "img": "/brand/land-rover.svg", 
+    "width": "100px", 
+    "height": "110px"
+   },
+  { "name": "BYD", 
+    "img": "/brand/byd.svg", 
+    "width": "100px", 
+    "height": "110px"
+   },
+  { "name": "Lamborghini", 
+    "img": "/brand/lamborghini.svg", 
+    "width": "100px", 
+    "height": "110px"
+   },
+  { "name": "Mini Cooper", 
+    "img": "/brand/mini-cooper.svg", 
+    "width": "100px", 
+    "height": "110px"
+   },
+  { "name": "Toyota", 
+    "img": "/brand/toyota.png", 
+    "width": "100px", 
+    "height": "110px"
+   },
+  { "name": "Ferrari", 
+    "img": "/brand/ferrari.png", 
+    "width": "90px",
+    "height": "110px" 
+  },
+  { "name": "Jeep", 
+    "img": "/brand/jeep.svg", 
+    "width": "100px", 
+    "height": "110px"
+   },
+  { "name": "Mazda", 
+    "img": "/brand/mazda.png", 
+    "width": "110px", 
+    "height": "100px", 
+    "marginBottom": "14px" 
+  },
+  { "name": "Nissan", 
+    "img": "/brand/nissan.svg", 
+    "width": "100px", 
+    "height": "110px"
+   },
+  { "name": "Ford", 
+    "img": "/brand/ford.svg", 
+    "width": "100px", 
+    "height": "110px"
+   },
+  { "name": "Subaru", 
+    "img": "/brand/subaru.png", 
+    "width": "100px", 
+    "height": "110px"
+   },
+  { "name": "Volkswagen", 
+    "img": "/brand/volkswagen.svg", 
+    "width": "100px", 
+    "height": "110px"
+   },
+  { "name": "Chevrolet", 
+    "img": "/brand/chevrolet.png", 
+    "width": "100px", 
+    "height": "110px"
+   },
+  { "name": "Lexus", 
+    "img": "/brand/lexus.png", 
+    "width": "100px", 
+    "height": "100px", 
+    "marginBottom": "10px", 
+    "marginTop": "5px" 
+  }
+]
